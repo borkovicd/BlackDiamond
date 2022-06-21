@@ -10198,7 +10198,7 @@ textarea.form-control-lg {
 }
 .img-slider {
   border: none;
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.985), rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.6)), url(assets/img/section-bg.jpg);
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.985), rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.6)), url('assets/img/section-bg.jpg');
   background-position: center;
   background-size: cover;
   background-attachment: scroll;
