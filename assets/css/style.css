@@ -10240,5 +10240,10 @@ textarea.form-control-lg {
 .holder {
   width: 100%;
 }
+nav.scrolled{
+    background-color: black!important;
+    opacity: .9;
+    transition: .6s ease;
+}
 
 /*# sourceMappingURL=style.css.map */
